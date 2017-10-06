@@ -12,4 +12,8 @@ aweomseoe awesome
 
 ## Deployment
 
+things to do yssssss
+
 ## How to Contribute
+
+dsafasdfads
