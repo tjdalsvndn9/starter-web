@@ -17,3 +17,6 @@ things to do yssssss
 ## How to Contribute
 
 dsafasdfads
+
+### Copyright
+sung's
