@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	sungmin yi -- frontend developer -- @naturtrak
 
 # THANKS
 
